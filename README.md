@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
 <img src="https://img.shields.io/badge/Create React App-09D3AC?style=flat-square&logo=Create React App&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=white"/>
-<img style=flat-square&logo=Tistory&logoColor=white"/>
+ <a href="https://agilejung.tistory.com"><img src="https://img.shields.io/badge/AgileJung-65DAFD?style=flat-square&logo=Blogger&logoColor=white"/></a> 
+
