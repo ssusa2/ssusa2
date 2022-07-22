@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CreateReactApp
 -09D3AC?style=flat-square&logo=CreateReactApp
 &logoColor=white"/>
-<img src="https://img.shields.io/badge/React Router
--CA4245?style=flat-square&logo=React Router&logoColor=white"/>
+<img src="https://img.shields.io/badge/ReactRouter
+-CA4245?style=flat-square&logo=ReactRouter&logoColor=white"/>
