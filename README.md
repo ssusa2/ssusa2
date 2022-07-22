@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ![Alt text](<https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black>)![Alt text](<https://img.shields.io/badge/Create%20React%20App-09D3AC.svg?style=for-the-badge&logo=Create-React-App&logoColor=white>)![Alt text](<https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white>)![Alt text](<https://img.shields.io/badge/Recoil-61DAFB.svg?style=for-the-badge&logo=&logoColor=white>)
 <br/>
