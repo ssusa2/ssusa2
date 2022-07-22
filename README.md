@@ -16,6 +16,80 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 232 Contributions in the Year 2022
+ > 
+> 📦 863 Bytes Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.03% 
+🌆 Daytime    62 commits     █████████░░░░░░░░░░░░░░░░   39.24% 
+🌃 Evening    75 commits     ███████████░░░░░░░░░░░░░░   47.47% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       25 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.82% 
+Tuesday      15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.49% 
+Wednesday    25 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.82% 
+Thursday     18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.39% 
+Friday       52 commits     ████████░░░░░░░░░░░░░░░░░   32.91% 
+Saturday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27% 
+Sunday       21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.29%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               3 repos             ████████████░░░░░░░░░░░░░   50.0% 
+HTML                     2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/ssusa2/ssusa2/main/charts/bar_graph.png) 
+
+
+ Last Updated on 22/07/2022 14:50:56 UTC
 <!--END_SECTION:waka-->
 
 
