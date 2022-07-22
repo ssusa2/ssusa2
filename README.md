@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prettier
--F7B93E?style=flat-square&logo=Prettier
-&logoColor=white"/>
+-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
 <img src="https://img.shields.io/badge/CreateReactApp
 -09D3AC?style=flat-square&logo=CreateReactApp
 &logoColor=white"/>
