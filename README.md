@@ -20,6 +20,5 @@ Here are some ideas to get you started:
 
 
 <div>
-<a href="https://ritzy-cylinder-292.notion.site/b3cb84d74189410393276796d5d0afed"><img src="https://img.shields.io/badge/SUIN-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
  <a href="https://agilejung.tistory.com"><img src="https://img.shields.io/badge/AgileJung-65DAFD?style=flat-square&logo=Blogger&logoColor=white"/></a> 
 </div>
