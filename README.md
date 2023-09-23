@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <div>
  <a href="https://agilejung.tistory.com"><img src="https://img.shields.io/badge/AgileJung-65DAFD?style=flat-square&logo=Blogger&logoColor=white"/></a> 
  <span> move </span>
- <a href="https://phenomenal-druid-6b24ec.netlify.app/"><img src="https://img.shields.io/badge/Dulumungsil-65DAFD?style=flat-square&logo=Blogger&logoColor=white"/></a> 
+ <a href="https://dulumungsil.netlify.app/"><img src="https://img.shields.io/badge/Dulumungsil-65DAFD?style=flat-square&logo=Blogger&logoColor=white"/></a> 
 </div>
